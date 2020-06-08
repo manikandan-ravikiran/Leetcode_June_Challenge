@@ -7,3 +7,4 @@ Problems of June day to day challenge in Leetcode
 4. Reverse a String
 5. Queue Reconstruction by Height
 6. Coin Change 2
+7. Power of Two

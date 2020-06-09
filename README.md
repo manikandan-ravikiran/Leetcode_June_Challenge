@@ -8,3 +8,4 @@ Problems of June day to day challenge in Leetcode
 5. Queue Reconstruction by Height
 6. Coin Change 2
 7. Power of Two
+8. Is subsequence of string

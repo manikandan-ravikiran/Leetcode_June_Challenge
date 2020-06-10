@@ -9,3 +9,4 @@ Problems of June day to day challenge in Leetcode
 6. Coin Change 2
 7. Power of Two
 8. Is subsequence of string
+9. Search insert position
